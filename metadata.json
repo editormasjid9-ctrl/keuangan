@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Keuangan Masjid Asy-Syifa'",
+  "description": "Sistem informasi dan dashboard keuangan Masjid Asy-Syifa' RS Muhammadiyah Lamongan untuk pencatatan pemasukan, pengeluaran, sumber dana, dan laporan kas masjid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
